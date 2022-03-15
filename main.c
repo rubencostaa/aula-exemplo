@@ -9,4 +9,5 @@ vInit(vect){
         n[i]=i;
         printf(n[i], "; ");
     }
+    printf("OLA");
 }
